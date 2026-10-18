@@ -1,0 +1,9 @@
+Jet washing added to the existing LA Fen Scapes design.
+New jet-washing.html service page, homepage service card and three before/after comparisons.
+All six new photos are included. Pairs: garden patio 1/2, patio beside house 5/4, front entrance 3/6.
+Service links, footers and all WhatsApp forms updated. Sitemap and relevant page metadata updated.
+Contact phone 07572 488028; WhatsApp 447572488028.
+Verified: Call and WhatsApp links, fixed header, attached overlapping logo, floating controls hidden until entire hero exits, business-specific 1200x630 social image wired to Open Graph/Twitter.
+All image files and responsive candidates decoded; local links and image dimensions checked.
+Browser visual testing unavailable and remains unverified. Existing preview noindex settings retained.
+Extract the full ZIP to a new folder and open index.html. Upload all included files to update the hosted site.
